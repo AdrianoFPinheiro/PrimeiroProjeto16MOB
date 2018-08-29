@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="meu_peso">Meu Peso</string>
+    <string name="ex_60">Ex: 60</string>
+    <string name="minha_altura">Minha Altura</string>
+    <string name="ex_80">Ex: 80</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="calculadora">Calculadora</string>
+</resources>

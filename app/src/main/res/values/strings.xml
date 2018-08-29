@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="calculadora">Calculator</string>
+    <string name="meu_peso">My Weight</string>
+    <string name="minha_altura">My Width</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clean</string>
+    <string name="ex_80">Example: Width</string>
+    <string name="ex_60">Example: Heigth</string>
+</resources>
